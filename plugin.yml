@@ -1,0 +1,59 @@
+---
+name: tags
+author: Mitch
+version: 1.0.0
+api: 3.18.0
+main: Mitch\tags\Main
+commands:
+  tags:
+    description: "Opens Tag Menu"
+permissions:
+  voter.command:
+    description: gives voter tag
+    default: false
+  tree.command:
+    description: gives tree tag
+    default: false
+  farmer.command:
+    description: gives farmer tag
+    default: false
+  seed.command:
+    description: gives seed tag
+    default: false
+  pvp.command:
+    description: gives pvp tag
+    default: false
+  nolife.command:
+    description: gives nolife tag
+    default: false
+  2021.command:
+    description: gives 2021 tag
+    default: false
+  number1.command:
+    description: gives number1 tag
+    default: false
+  rich.command:
+    description: gives rich tag
+    default: false
+  rip.command:
+    description: gives rip tag
+    default: false
+  qt.command:
+    description: gives qt tag
+    default: false
+  gamer.command:
+    description: gives gamer tag
+    default: false
+  epic.command:
+    description: gives epic tag
+    default: false
+  tryhard.command:
+    description: gives tryhard tag
+    default: false
+  home.command:
+    description: gives home tag
+    default: false
+  miner.command:
+    description: gives miner tag
+    default: false
+...
